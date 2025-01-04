@@ -2,6 +2,7 @@ package bot
 
 import (
 	"encoding/json"
+	"github.com/mikhikhi/baleBot/models"
 	"io"
 	"net/http"
 )

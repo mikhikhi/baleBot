@@ -1,5 +1,7 @@
 package bot
 
+import "github.com/mikhikhi/baleBot/models"
+
 type SetWebhookParams struct {
 	URL                string           `json:"url"`
 	Certificate        models.InputFile `json:"certificate,omitempty"`

@@ -1,6 +1,7 @@
 package bot
 
 import (
+	"github.com/mikhikhi/baleBot/models"
 	"regexp"
 	"testing"
 )

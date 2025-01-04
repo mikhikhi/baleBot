@@ -4,6 +4,7 @@ import (
 	"bytes"
 	"context"
 	"fmt"
+	"github.com/mikhikhi/baleBot/models"
 	"io"
 	"net/http"
 	"testing"

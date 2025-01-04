@@ -3,6 +3,7 @@ package bot
 import (
 	"bytes"
 	"encoding/json"
+	"github.com/mikhikhi/baleBot/models"
 	"io"
 	"mime/multipart"
 	"reflect"

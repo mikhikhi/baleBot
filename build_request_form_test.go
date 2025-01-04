@@ -2,6 +2,7 @@ package bot
 
 import (
 	"bytes"
+	"github.com/mikhikhi/baleBot/models"
 	"mime/multipart"
 	"strings"
 	"testing"

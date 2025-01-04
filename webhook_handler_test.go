@@ -5,6 +5,7 @@ import (
 	"context"
 	"encoding/json"
 	"errors"
+	"github.com/mikhikhi/baleBot/models"
 	"io"
 	"net/http"
 	"net/http/httptest"

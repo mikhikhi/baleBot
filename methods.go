@@ -2,6 +2,7 @@ package bot
 
 import (
 	"context"
+	"github.com/mikhikhi/baleBot/models"
 )
 
 // SetWebhook https://core.telegram.org/bots/api#setwebhook

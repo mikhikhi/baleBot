@@ -5,6 +5,7 @@ import (
 	"crypto/sha256"
 	"encoding/json"
 	"fmt"
+	"github.com/mikhikhi/baleBot/models"
 	"math/rand"
 	"net/url"
 	"sort"

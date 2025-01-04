@@ -2,6 +2,7 @@ package bot
 
 import (
 	"context"
+	"github.com/mikhikhi/baleBot/models"
 )
 
 func applyMiddlewares(h HandlerFunc, m ...Middleware) HandlerFunc {
